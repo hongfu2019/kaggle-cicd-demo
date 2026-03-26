@@ -1,5 +1,5 @@
 # Kaggle CI/CD Demo for a Python Data Science Project
-
+#
 This package contains two self-contained example projects based on the **Kaggle Titanic** workflow:
 
 - `release_candidate_good/` — a clean release candidate that is designed to pass CI checks.
